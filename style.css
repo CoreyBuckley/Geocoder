@@ -1,0 +1,33 @@
+body {
+	background-color: linen;
+}
+
+#map {
+	border: 1px black solid;
+	width: 750px;
+	height: 500px;
+	margin: auto;
+	margin-bottom: 20px;
+	resize: both;
+	overflow: auto;
+}
+
+#output {
+	text-align: center;
+	color: red;
+	text-shadow: 1px 1px white;
+	font-weight: bold;
+}
+
+#location {
+	text-align: center;
+}
+
+label {
+	text-shadow: 2px 2px #decaea;
+	/* background-color: antiquewhite; */
+}
+
+.center {
+	text-align: center;
+}
