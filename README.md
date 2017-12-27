@@ -1,4 +1,4 @@
-# Geocoder
+# :earth_americas: Geocoder :earth_americas: 
 
 **NOTE:** The accuracy of the geocoding and reverse geocoding is not guaranteed to be 100% perfect by Google, and the geolocation of HTML5 may not be perfect either. These results are the best estimations -- they may not always be flawless. 
 
@@ -14,5 +14,6 @@ Reverse Geocoding is used when you click a point on the map -- the (lat,lng) wil
 *All references used for this*
 
 [Geocoding Overview](https://developers.google.com/maps/documentation/geocoding/start?refresh=1)
+
 [Geocoding Reference](https://developers.google.com/maps/documentation/geocoding/intro)
 
